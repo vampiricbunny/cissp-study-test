@@ -24,3 +24,8 @@ What happens if you get it wrong or right (it can keep track)
 
 =======================
 
+## Note this code is ment to be ran offline. for self study only (it is not secure)
+
+This contains more than 3,200 questions from the CISSP and is a good resource for studying. However, it is meant to be run offline due to the fact that it's just standard HTML. If possible, I will also include a PDF book for additional study.
+
+- This is meant to be a proof of concept (and I was already studying the material, so I thought I’d include it here).

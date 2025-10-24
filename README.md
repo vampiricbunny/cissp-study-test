@@ -1,5 +1,5 @@
 # cissp-study-test
-A site made to quiz and test for CISSP self study from book 2025
+A site made to quiz and test for CISSP self study from book 2025 Has pdf study guide. works offline.
 
 
 ## Preview of what it looks like:

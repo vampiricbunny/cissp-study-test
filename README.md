@@ -26,7 +26,7 @@ What happens if you get it wrong or right (it can keep track)
 
 ## Code starts here:
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -790,4 +790,4 @@ currentQuestionIndex--;
 
 
 </body>
-</html>
+</html>```
